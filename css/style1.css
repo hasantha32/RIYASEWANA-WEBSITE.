@@ -121,7 +121,7 @@ h3 {
 .clear {
   clear: both; }
 
-body {
+body1 {
   font-size: 13px;
   line-height: 1.8;
   color: #fff;
@@ -141,7 +141,7 @@ body {
   padding: 60px 0;
   position: relative; }
 
-.container {
+.container1 {
   width: 586px;
   background: #fff;
   margin-left: 165px;
@@ -249,36 +249,6 @@ ul li {
   ul li:last-child {
     border-bottom: 1px solid #ebebeb; }
 
-ul li:not(.init) {
-  display: none;
-  background: #fff;
-  color: #222;
-  padding: 5px 10px;
-  border-left: 1px solid #ebebeb;
-  border-right: 1px solid #ebebeb;
-  border-top: 1px solid #ebebeb; }
-
-ul li:not(.init):hover, ul li.selected:not(.init) {
-  background: #4966b1;
-  color: #fff; }
-
-li.init {
-  cursor: pointer;
-  position: relative;
-  border-bottom: 2px solid #ebebeb; }
-  li.init:after {
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
-    -moz-transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    -o-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    font-size: 20px;
-    color: #999;
-    font-family: 'Material-Design-Iconic-Font';
-    content: '\f2f9'; }
 
 #confirm_type {
   margin-bottom: 30px; }
