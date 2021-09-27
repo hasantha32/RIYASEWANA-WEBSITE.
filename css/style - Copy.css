@@ -1,0 +1,1163 @@
+.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__1 {
+		position: absolute;
+		width: 2140px;
+		height: 2423px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_2 {
+		fill: rgba(245,240,240,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 1082px;
+		height: 2247px;
+		left: 120px;
+		top: 119px;
+	}
+	#Add_Your_Vehicle {
+		left: 243px;
+		top: 271px;
+		position: absolute;
+		overflow: visible;
+		width: 381px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(112,112,112,1);
+	}
+	#Condition {
+		mix-blend-mode: darken;
+		left: 243px;
+		top: 395px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#New {
+		mix-blend-mode: darken;
+		left: 433px;
+		top: 482px;
+		position: absolute;
+		overflow: visible;
+		width: 42px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Ellipse_1 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		height: 28px;
+		left: 363px;
+		top: 479px;
+	}
+	#Reconditioned {
+		mix-blend-mode: darken;
+		left: 707px;
+		top: 480px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Ellipse_2 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		height: 28px;
+		left: 637px;
+		top: 477px;
+	}
+	#Used {
+		mix-blend-mode: darken;
+		left: 1035px;
+		top: 481px;
+		position: absolute;
+		overflow: visible;
+		width: 46px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Ellipse_3 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		height: 28px;
+		left: 965px;
+		top: 478px;
+	}
+	#Vehicle_Type {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 567px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_3 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 567px;
+	}
+	#Polygon_1 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_1 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,581) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Vehicle_Make {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 650px;
+		position: absolute;
+		overflow: visible;
+		width: 177px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_4 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 650px;
+	}
+	#Polygon_2 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_2 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,664) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Model {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 736px;
+		position: absolute;
+		overflow: visible;
+		width: 86px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_5 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 736px;
+	}
+	#Manufactured__Year {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 825px;
+		position: absolute;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_6 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 825px;
+	}
+	#Polygon_3 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_3 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,834) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#PriceRs {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 921px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_7 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 49px;
+		left: 438px;
+		top: 917px;
+	}
+	#Polygon_4 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_4 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,944) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Polygon_5 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_5 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100.1206,924) rotate(1deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Transmission {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 1013px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_8 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 1013px;
+	}
+	#Polygon_6 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_6 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,1027) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Fuel_Type {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 1096px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_9 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 1096px;
+	}
+	#Polygon_7 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_7 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,1110) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Engine_Capacity {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 1191px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_10 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 49px;
+		left: 438px;
+		top: 1187px;
+	}
+	#Polygon_8 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_8 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,1214) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Polygon_9 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_9 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100.1206,1194.0001) rotate(1deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#MileageKm {
+		mix-blend-mode: darken;
+		left: 203px;
+		top: 1287px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_11 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 49px;
+		left: 438px;
+		top: 1283px;
+	}
+	#Polygon_10 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_10 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,1310) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Polygon_11 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_11 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100.1206,1290.0001) rotate(1deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Options {
+		mix-blend-mode: darken;
+		left: 208px;
+		top: 1406px;
+		position: absolute;
+		overflow: visible;
+		width: 106px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_12 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		height: 20px;
+		left: 445px;
+		top: 1417px;
+	}
+	#Air_Condition {
+		mix-blend-mode: darken;
+		left: 476px;
+		top: 1414px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_13 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		height: 20px;
+		left: 618px;
+		top: 1420px;
+	}
+	#Power_Steering {
+		mix-blend-mode: darken;
+		left: 649px;
+		top: 1417px;
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_14 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		height: 20px;
+		left: 806px;
+		top: 1423px;
+	}
+	#Power_Mirror {
+		mix-blend-mode: darken;
+		left: 837px;
+		top: 1420px;
+		position: absolute;
+		overflow: visible;
+		width: 109px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_15 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_15 {
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		height: 20px;
+		left: 979px;
+		top: 1426px;
+	}
+	#Power_window {
+		mix-blend-mode: darken;
+		left: 1010px;
+		top: 1423px;
+		position: absolute;
+		overflow: visible;
+		width: 122px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Additional__Information {
+		mix-blend-mode: darken;
+		left: 214px;
+		top: 1525px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_16 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 693px;
+		height: 178px;
+		left: 438px;
+		top: 1525px;
+	}
+	#Add_upto_5_photos {
+		mix-blend-mode: darken;
+		left: 214px;
+		top: 1760px;
+		position: absolute;
+		overflow: visible;
+		width: 252px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_17 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 118px;
+		left: 438px;
+		top: 1826px;
+	}
+	#Add_a_Photo {
+		mix-blend-mode: darken;
+		left: 445px;
+		top: 1869px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_18 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_18 {
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 118px;
+		left: 590px;
+		top: 1826px;
+	}
+	#Add_a_Photo_bx {
+		mix-blend-mode: darken;
+		left: 597px;
+		top: 1869px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_19 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 118px;
+		left: 742px;
+		top: 1824px;
+	}
+	#Add_a_Photo_bz {
+		mix-blend-mode: darken;
+		left: 749px;
+		top: 1867px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_20 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_20 {
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 118px;
+		left: 894px;
+		top: 1824px;
+	}
+	#Add_a_Photo_b {
+		mix-blend-mode: darken;
+		left: 901px;
+		top: 1867px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_21 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 118px;
+		left: 1046px;
+		top: 1826px;
+	}
+	#Add_a_Photo_ca {
+		mix-blend-mode: darken;
+		left: 1053px;
+		top: 1869px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(9,1,1,1);
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 929.006px;
+		height: 7px;
+		left: 214px;
+		top: 1994.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Contact_info {
+		mix-blend-mode: darken;
+		left: 225px;
+		top: 2029px;
+		position: absolute;
+		overflow: visible;
+		width: 175px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Name {
+		mix-blend-mode: darken;
+		left: 227px;
+		top: 2094px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_22 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_22 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 2094px;
+	}
+	#Phone_Number {
+		mix-blend-mode: darken;
+		left: 227px;
+		top: 2180px;
+		position: absolute;
+		overflow: visible;
+		width: 202px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_23 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_23 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 2180px;
+	}
+	#City {
+		mix-blend-mode: darken;
+		left: 227px;
+		top: 2269px;
+		position: absolute;
+		overflow: visible;
+		width: 52px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Microsoft PhagsPa;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(9,1,1,1);
+	}
+	#Rectangle_24 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_24 {
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 38px;
+		left: 438px;
+		top: 2269px;
+	}
+	#Polygon_12 {
+		fill: rgba(35,28,28,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Polygon_12 {
+		overflow: visible;
+		position: absolute;
+		width: 21px;
+		height: 14px;
+		transform: matrix(1,0,0,1,1100,2278) rotate(180deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
